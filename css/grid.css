@@ -1,5 +1,7 @@
 .grid {
   overflow: hidden;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .unit {
